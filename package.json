@@ -1,0 +1,23 @@
+{
+  "name": "react-native-audio-x",
+  "version": "4.3.1",
+  "description": "React Native extension for recording audio",
+  "main": "index.js",
+  "author": "mguo",
+  "files": [
+    "ios/AudioRecorderManager.m",
+    "ios/AudioRecorderManager.h",
+    "ios/RNAudio.xcodeproj",
+    "README.md",
+    "LICENSE",
+    "index.js",
+    "android/*",
+    "RNAudio.podspec"
+  ],
+  "keywords": [
+    "react-native",
+    "audio",
+    "record"
+  ],
+  "nativePackage": true
+}
